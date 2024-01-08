@@ -1,4 +1,4 @@
-### TermLock
+TermLock
 
 This project presents a Bash script designed for users running Arch Linux. The script acts as a convenient system management tool, providing options for essential actions such as suspension, screen locking, and system shutdown. Users interact with the script through a user-friendly command-line interface, where they can select their desired action from a menu. The script incorporates flexibility by employing different screen locking methods, including Enlightenment, Xorg, and i3lock. This diversity allows users to tailor the experience based on their desktop environment and preferences. Additionally, the script adheres to best practices, ensuring compatibility by checking for the existence of specific commands before attempting to execute them. The primary goal is to simplify common system operations for Arch Linux users while offering adaptability to diverse desktop environments.
 
